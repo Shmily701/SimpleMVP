@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleMvp</string>
+    <string name="loading">正在加载数据...</string>
+    <string name="loadfailed">加载数据失败</string>
+</resources>
