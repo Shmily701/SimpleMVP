@@ -39,6 +39,7 @@ public class StudentBean {
     }
 
     public void setPhone(String phone) {
+        
         this.phone = phone;
     }
 }
